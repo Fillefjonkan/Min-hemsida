@@ -1,0 +1,33 @@
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgba(102, 130, 159, 0.639);
+    
+  
+  }
+  
+  .flex-container > div {
+    width: 500px;
+    margin: 10px;
+    
+    
+    
+  }
+body {
+    background-image: url('https://t4.ftcdn.net/jpg/05/71/83/47/360_F_571834789_ujYbUnH190iUokdDhZq7GXeTBRgqYVwa.jpg');
+}
+.text {
+    text-size-adjust: 100%;
+    text-align: center;
+    background-color: aliceblue;
+    opacity: 0.5;
+    width: 100%;
+}
+.list{
+    text-align: left;
+    background-color: brown;
+    text-decoration: none; 
+    width: 20%;
+    opacity: 0.5;
+    
+}
